@@ -4,6 +4,7 @@
 $topic = new Topic;
 // Create user object:
 $user = new User;
+///
 // Create Validator object:
 $validate = new Validator;
 // Get Template & Assign Vars
